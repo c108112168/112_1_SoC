@@ -1,2 +1,2 @@
 # HoG&SVM in Iciclr-kit
-影片編輯中
+影片連結:https://youtu.be/FuxIqiUtNTI
